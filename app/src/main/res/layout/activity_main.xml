@@ -13,11 +13,18 @@
     tools:context=".MainActivity">
 
     <Button
+        android:id="@+id/button_browser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#3DCE0C"
+        android:text="@string/button_label_browser" />
+
+    <Button
         android:id="@+id/button_toast"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/button_label_toast"
-        android:background="@color/purple_200" />
+        android:backgroundTint="@color/purple_200" />
 
     <TextView
         android:id="@+id/show_count"
@@ -34,6 +41,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/button_label_count"
-        android:background="@color/purple_200" />
+        android:backgroundTint="@color/purple_200" />
+
+    <Button
+        android:id="@+id/button_switchpage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#3DCE0C"
+        android:text="@string/button_label_pindah"
+        app:cornerRadius="20dp" />
 
 </LinearLayout>
