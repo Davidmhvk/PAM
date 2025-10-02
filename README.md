@@ -1,7 +1,7 @@
 # Pemrograman Aplikasi Mobile
 
-**Nama:**  
-**NIM:**  
+**Nama:David Aradea Mahdavikia**  
+**NIM:1237050118**  
 
 ---
 
